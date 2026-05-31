@@ -2,7 +2,7 @@
   <em>Carlos Eduardo | Aspirante a Desenvolvedor Back-End
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/carlos-eduardo-5b5ba7340">
+  <a href="https://linkedin.com/in/carlos-eduardo-ss">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/CarlosDevJv">
