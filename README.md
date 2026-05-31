@@ -36,9 +36,9 @@ Sou um desenvolvedor em formação com foco em Back-End, apaixonado por lógica,
 </p>
 
 
-🚀 O que estou estudando agora
-text☕  Java (POO, Collections, Generics)
-🌱  Spring Boot (REST APIs, Spring Security, Spring Data JPA)
-🗄️  Modelagem de banco de dados relacional
-🔐  Autenticação com JWT
+🚀 O que estou estudando agora  
+☕  Java (POO, Collections, Generics)  
+🌱  Spring Boot (REST APIs, Spring Security, Spring Data JPA)  
+🗄️  Modelagem de banco de dados relacional  
+🔐  Autenticação com JWT  
 📐  Padrões de projeto (Design Patterns)
