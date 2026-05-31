@@ -10,7 +10,6 @@
   </a>
 </p>
 
-👨‍💻 Sobre mim
 Sou um desenvolvedor em formação com foco em Back-End, apaixonado por lógica, arquitetura de sistemas e pela criação de APIs que fazem a diferença. Estou constantemente estudando e aplicando boas práticas de desenvolvimento para evoluir minhas habilidades.
 
 🎯 Objetivo: Me tornar um desenvolvedor Back-End Java completo
